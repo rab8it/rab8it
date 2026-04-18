@@ -7,7 +7,7 @@
 ## `> ./whoami.sh`
 
 <div align="center">
-  <img src="./whoami.svg" alt="whoami" width="520"/>
+  <img src="./whoami.svg" alt="whoami" width="680"/>
 </div>
 
 ## `> cat tech_stack.md` <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux"/></code>
