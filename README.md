@@ -4,28 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+rab8it;%3E+Web+Dev+%2F+Cybersec;%3E+Building.+Breaking.+Learning.;%3E+I+use+Arch+btw_" alt="Typing SVG" />
 </a>
 </div>
----
 ## `> ./whoami.sh`
 
-```bash
-┌─[rab8it@arch]─[~]
-└──╼ $ cat .profile
-
-  ╭──────────────────────────────────────────────╮
-  │   alias me='whoami'                          │
-  │                                              │
-  │   ROLE     : Web Developer                   │
-  │   STACK    : .NET · Perl · Python · JS       │
-  │   FOCUS    : Cybersecurity                   │
-  │   LOCATION : Bulgaria                        │
-  │   OS       : Arch Linux (btw)                │
-  ╰──────────────────────────────────────────────╯
-
-┌─[rab8it@arch]─[~]
-└──╼ $ _
-```
-
----
+<div align="center">
+  <img src="./whoami.svg" alt="whoami" width="520"/>
+</div>
 
 ## `> cat tech_stack.md` <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux"/></code>
 
