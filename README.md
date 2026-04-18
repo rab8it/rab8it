@@ -3,17 +3,8 @@
 <a href="https://github.com/rab8it">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+rab8it;%3E+Web+Dev+%2F+Cybersec;%3E+Building.+Breaking.+Learning.;%3E+I+use+Arch+btw_" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rab8it&label=PROFILE%20VIEWS&color=00ff41&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/rab8it?label=FOLLOWERS&style=flat-square&color=00ff41" alt="followers" />
-<img src="https://img.shields.io/badge/STATUS-online-00ff41?style=flat-square" alt="status" />
-
 </div>
-
 ---
-
 ## `> ./whoami.sh`
 
 ```bash
