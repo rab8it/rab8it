@@ -27,7 +27,7 @@
 
 ---
 
-## `> cat tech_stack.md`
+## `> cat tech_stack.md` <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux"/></code>
 
 #### `// Languages`
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
