@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/rab8it">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+rab8it;%3E+Web+Dev+%2F+Cybersec+Enthusiast;%3E+Building.+Breaking.+Learning.;%3E+I+use+Arch+btw_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+rab8it;%3E+Web+Dev+%2F+Cybersec;%3E+Building.+Breaking.+Learning.;%3E+I+use+Arch+btw_" alt="Typing SVG" />
 </a>
 
 <br/>
