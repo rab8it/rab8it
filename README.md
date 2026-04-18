@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+rab8it;%3E+Web+Dev+%2F+Cybersec;%3E+Building.+Breaking.+Learning.;%3E+I+use+Arch+btw_" alt="Typing SVG" />
 </a>
 </div>
-## `> ./whoami.sh`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3200&pause=999999&color=00FF41&width=350&height=40&lines=%3E+.%2Fwhoami.sh_" alt="> ./whoami.sh"/>
 <div align="center">
   <br/>
   <img src="./whoami.svg" alt="whoami" width="680"/>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=999999&color=00FF41&width=350&height=40&lines=%3E+.%2Fwhoami.sh_" alt="> ./whoami.sh"/>
+## `> cat tech_stack.md` 
 
 #### `// Languages`
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
