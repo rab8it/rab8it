@@ -7,6 +7,7 @@
 ## `> ./whoami.sh`
 
 <div align="center">
+  <br/>
   <img src="./whoami.svg" alt="whoami" width="680"/>
 </div>
 
