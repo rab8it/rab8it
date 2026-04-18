@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 560" font-family="'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Menlo', 'Consolas', monospace">
+  <style>
+    .term   { fill: #00ff41; font-size: 13px; }
+    .prompt { fill: #39ff14; font-size: 13px; font-weight: bold; }
+    .cmd    { fill: #ffffff; font-size: 13px; }
+    .title  { fill: #8b949e; font-size: 11px; }
+    .arch   { fill: #1793D1; font-size: 13px; font-weight: bold; }
+    .label  { fill: #39ff14; font-size: 13px; font-weight: bold; }
+    .value  { fill: #ffffff; font-size: 13px; }
+    .sep    { fill: #00ff41; font-size: 13px; }
+    .ok     { fill: #00ff41; font-size: 13px; font-weight: bold; }
+    @keyframes blink {
+      0%, 49%   { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+  </style>
+
+  <!-- window background -->
+  <rect width="680" height="560" rx="8" ry="8" fill="#0D1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect width="680" height="26" rx="8" ry="8" fill="#161b22"/>
+  <rect y="13" width="680" height="13" fill="#161b22"/>
+
+  <!-- traffic lights -->
+  <circle cx="16" cy="13" r="5.5" fill="#ff5f56"/>
+  <circle cx="34" cy="13" r="5.5" fill="#ffbd2e"/>
+  <circle cx="52" cy="13" r="5.5" fill="#27c93f"/>
+
+  <!-- title -->
+  <text x="340" y="17" text-anchor="middle" class="title">rab8it@arch: ~</text>
+
+  <!-- terminal content -->
+  <g transform="translate(14, 50)">
+
+    <!-- top prompt -->
+    <text x="0" y="0"  xml:space="preserve" class="prompt">┌─[rab8it@arch]─[~]</text>
+    <text x="0" y="20" xml:space="preserve" class="prompt">└──╼ $ <tspan class="cmd">neofetch</tspan></text>
+
+    <!-- ASCII Arch logo -->
+    <text x="0" y="58"  xml:space="preserve" class="arch">                   -`</text>
+    <text x="0" y="76"  xml:space="preserve" class="arch">                  .o+`</text>
+    <text x="0" y="94"  xml:space="preserve" class="arch">                 `ooo/</text>
+    <text x="0" y="112" xml:space="preserve" class="arch">                `+oooo:</text>
+    <text x="0" y="130" xml:space="preserve" class="arch">               `+oooooo:</text>
+    <text x="0" y="148" xml:space="preserve" class="arch">               -+oooooo+:</text>
+    <text x="0" y="166" xml:space="preserve" class="arch">             `/:-:++oooo+:</text>
+    <text x="0" y="184" xml:space="preserve" class="arch">            `/++++/+++++++:</text>
+    <text x="0" y="202" xml:space="preserve" class="arch">           `/++++++++++++++:</text>
+    <text x="0" y="220" xml:space="preserve" class="arch">          `/+++ooooooooooooo/`</text>
+    <text x="0" y="238" xml:space="preserve" class="arch">         ./ooosssso++osssssso+`</text>
+    <text x="0" y="256" xml:space="preserve" class="arch">        .oossssso-````/ossssss+`</text>
+    <text x="0" y="274" xml:space="preserve" class="arch">       -osssssso.      :ssssssso.</text>
+    <text x="0" y="292" xml:space="preserve" class="arch">      :osssssss/        osssso+++.</text>
+    <text x="0" y="310" xml:space="preserve" class="arch">     /ossssssss/        +ssssooo/-</text>
+    <text x="0" y="328" xml:space="preserve" class="arch">   `/ossssso+/:-        -:/+osssso+-</text>
+    <text x="0" y="346" xml:space="preserve" class="arch">  `+sso+:-`                 `.-/+oso:</text>
+    <text x="0" y="364" xml:space="preserve" class="arch"> `++:.                           `-/+/</text>
+    <text x="0" y="382" xml:space="preserve" class="arch"> .`                                 `/</text>
+
+    <!-- profile info (right side, neofetch-style) -->
+    <g transform="translate(330, 0)">
+      <text x="0" y="58"  xml:space="preserve"><tspan class="label">rab8it</tspan><tspan class="value">@</tspan><tspan class="label">arch</tspan></text>
+      <text x="0" y="76"  xml:space="preserve" class="sep">-----------</text>
+      <text x="0" y="94"  xml:space="preserve"><tspan class="label">OS</tspan><tspan class="value">: Arch Linux x86_64 (btw)</tspan></text>
+      <text x="0" y="112" xml:space="preserve"><tspan class="label">Kernel</tspan><tspan class="value">: 6.x-zen</tspan></text>
+      <text x="0" y="130" xml:space="preserve"><tspan class="label">Uptime</tspan><tspan class="value">: ∞ days, debugging life</tspan></text>
+      <text x="0" y="148" xml:space="preserve"><tspan class="label">Packages</tspan><tspan class="value">: ∞ (yay)</tspan></text>
+      <text x="0" y="166" xml:space="preserve"><tspan class="label">Shell</tspan><tspan class="value">: bash 5.x</tspan></text>
+      <text x="0" y="184" xml:space="preserve"><tspan class="label">Editor</tspan><tspan class="value">: Neovim</tspan></text>
+      <text x="0" y="202" xml:space="preserve"><tspan class="label">Theme</tspan><tspan class="value">: Matrix [GTK3]</tspan></text>
+      <text x="0" y="220" xml:space="preserve"><tspan class="label">CPU</tspan><tspan class="value">: caffeine + curiosity</tspan></text>
+      <text x="0" y="238" xml:space="preserve"><tspan class="label">Memory</tspan><tspan class="value">: 1337MiB / ∞MiB</tspan></text>
+      <text x="0" y="256" xml:space="preserve" class="sep">-----------</text>
+      <text x="0" y="274" xml:space="preserve"><tspan class="label">Role</tspan><tspan class="value">: Web Developer</tspan></text>
+      <text x="0" y="292" xml:space="preserve"><tspan class="label">Stack</tspan><tspan class="value">: .NET · Perl · Python · JS</tspan></text>
+      <text x="0" y="310" xml:space="preserve"><tspan class="label">Focus</tspan><tspan class="value">: Cybersecurity</tspan></text>
+      <text x="0" y="328" xml:space="preserve"><tspan class="label">Location</tspan><tspan class="value">: Bulgaria</tspan></text>
+      <text x="0" y="346" xml:space="preserve"><tspan class="label">Status</tspan><tspan class="value">: </tspan><tspan class="ok">▲ ONLINE</tspan></text>
+
+      <!-- color palette blocks (signature neofetch footer) -->
+      <g transform="translate(0, 360)">
+        <rect x="0"   y="0" width="22" height="14" fill="#000000"/>
+        <rect x="24"  y="0" width="22" height="14" fill="#ff5555"/>
+        <rect x="48"  y="0" width="22" height="14" fill="#50fa7b"/>
+        <rect x="72"  y="0" width="22" height="14" fill="#f1fa8c"/>
+        <rect x="96"  y="0" width="22" height="14" fill="#bd93f9"/>
+        <rect x="120" y="0" width="22" height="14" fill="#ff79c6"/>
+        <rect x="144" y="0" width="22" height="14" fill="#8be9fd"/>
+        <rect x="168" y="0" width="22" height="14" fill="#f8f8f2"/>
+      </g>
+      <g transform="translate(0, 378)">
+        <rect x="0"   y="0" width="22" height="14" fill="#44475a"/>
+        <rect x="24"  y="0" width="22" height="14" fill="#ff6e6e"/>
+        <rect x="48"  y="0" width="22" height="14" fill="#69ff94"/>
+        <rect x="72"  y="0" width="22" height="14" fill="#ffffa5"/>
+        <rect x="96"  y="0" width="22" height="14" fill="#d6acff"/>
+        <rect x="120" y="0" width="22" height="14" fill="#ff92df"/>
+        <rect x="144" y="0" width="22" height="14" fill="#a4ffff"/>
+        <rect x="168" y="0" width="22" height="14" fill="#ffffff"/>
+      </g>
+    </g>
+
+    <!-- bottom prompt -->
+    <text x="0" y="440" xml:space="preserve" class="prompt">┌─[rab8it@arch]─[~]</text>
+    <text x="0" y="460" xml:space="preserve" class="prompt">└──╼ $ <tspan class="cursor">▊</tspan></text>
+
+  </g>
+</svg>
