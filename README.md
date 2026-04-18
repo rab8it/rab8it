@@ -75,10 +75,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rab8it&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rab8it/rab8it/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
 ---
 
 <div align="center">
