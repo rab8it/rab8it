@@ -19,7 +19,6 @@
   │   FOCUS    : Cybersecurity                   │
   │   LOCATION : Bulgaria                        │
   │   OS       : Arch Linux (btw)                │
-  │   MOTTO    : "Stay curious. Stay paranoid."  │
   ╰──────────────────────────────────────────────╯
 
 ┌─[rab8it@arch]─[~]
