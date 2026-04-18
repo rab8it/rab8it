@@ -10,7 +10,7 @@
   <img src="./whoami.svg" alt="whoami" width="680"/>
 </div>
 
-## `> cat tech_stack.md` 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=999999&color=00FF41&width=350&height=40&lines=%3E+.%2Fwhoami.sh_" alt="> ./whoami.sh"/>
 
 #### `// Languages`
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
